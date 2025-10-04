@@ -1,4 +1,5 @@
 streamlit
+tensorflow
 scikit-learn
 matplotlib
 seaborn
@@ -6,5 +7,6 @@ pandas
 numpy
 torch
 transformers
+
 
 
