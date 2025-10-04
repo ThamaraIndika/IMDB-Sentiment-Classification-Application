@@ -1,12 +1,12 @@
-streamlit
 tensorflow
+pandas 
+numpy 
 scikit-learn
+tensorboard
 matplotlib
-seaborn
-pandas
-numpy
-torch
-transformers
+streamlit
+scikeras
+
 
 
 
